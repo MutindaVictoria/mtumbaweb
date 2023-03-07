@@ -140,7 +140,38 @@ border-radius: 10px;
         font-size: 35px;
         font-style: oblique;
     }
+    .casuals{
+        display: flex;
+        justify-content: space-between;
 
+    }
+    .wear1{border-radius: 10px;
+        width: 260px;
+        height: 400px
+
+    }
+    .wear2{
+        border-radius: 10px;
+        width: 260px;
+        height: 400px
+    }
+    .wear3{border-radius: 10px;
+        width: 260px;
+        height: 400px
+
+    }
+    .footer-div{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+      }
+      .footer-div li{
+        display:inline-block;
+        list-style-type: none;
+      }  
+.body{
+    background-color:wheat
+}
     
 
     
