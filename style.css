@@ -1,0 +1,157 @@
+.image{
+    background-image:url(image/luku.jpg);
+    background-position: 50px 7px 15px 9px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.header1{
+    font-size:40px;
+    color:darkgreen;
+font-style:oblique ;
+}
+.about{
+    display: flex;
+    list-style: none;
+    padding-bottom: 80%;
+    justify-content: space-between;
+
+ }
+.front{
+color: white;
+margin-left: 2%;
+font: 1em sans-serif;
+font-weight:bolder;
+}
+.up{
+    margin-top: -38%;
+    margin-left: 45%;
+    
+}
+.button{
+color: white;
+background-color: black;
+font-size: 150%;}
+
+.search{border-radius: 40px;
+    margin-left: 30px;
+    background-color: blue;
+    color: white;
+
+}
+.header2{
+    color: brown;
+    margin-top: 18%;
+    font-size: 20px;
+}
+.image1{
+    width: 450px;
+    height: 520px;
+    margin-left: 49%;
+    margin-top: -34%;
+    border-radius: 4px;
+}
+.fashion{
+    display: flex;
+}
+.list{
+    color:black;
+    margin-left: 7%;
+    font-weight: bold;
+}
+.location{
+    color: brown;
+margin-top: 15%;
+    text-align: center;
+    font-size: 32px;
+    font-style: oblique;
+}
+.official{
+    display: flex;
+    justify-content: space-between;
+}
+.pal1{
+    border-radius: 10px;
+    width: 250px;
+    height: 400px;
+}
+.pal2{
+    border-radius: 10px;
+    width: 260px;
+    height: 400px;}
+
+.pal3{
+border-radius: 10px;
+        width: 300px;
+        height: 400px;
+}
+.pal4{
+    border-radius: 10px;
+    width: 300px;
+    height: 400px;}
+    .button2{
+        margin-top: 3%;
+        margin-left: 40%;
+    margin-right:45% ;}
+    .tap{
+        color: white;
+        background-color: blue;
+        font-size: 15px;
+    }
+    .jeans{
+        color: brown;
+        text-align: center;
+        font-size: 35px;
+        font-style: oblique;
+    } 
+    .denim{
+        display: flex;
+        justify-content: space-between;
+
+    }
+    .jeana{
+        border-radius: 10px;
+        width: 260px;
+        height: 400px;}
+        .jeanb{
+            border-radius: 10px;
+            width: 260px;
+            height: 400px;}
+           
+        .jeanc{
+            border-radius: 10px;
+            width: 260px;
+            height: 400px;}
+            .jeand{
+            border-radius: 10px;
+    width: 260px;
+    height: 400px;}
+    .button3{
+        margin-top: 3%;
+        margin-left: 40%;
+    margin-right:45%}    
+    .buy{
+        color: white;
+        background-color: blue;
+        font-size: 15px;
+    }
+    .casual{
+        color: brown;
+        text-align: center;
+        font-size: 35px;
+        font-style: oblique;
+    }
+
+    
+
+    
+
+            
+          
+        
+    
+    
+    
+    
+
+         
+    
